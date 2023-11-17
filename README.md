@@ -1,8 +1,7 @@
-# FinTech_casestudy
 Group activity
 # FinTech Case Study
 
-![xrp](C:\Users\0xdaom\Desktop\FinTech_casestudy)
+![xrp](xrp.jpg.png)
 # Ripple Competitors Analysis
 ## Overview
 This document provides an analysis of the key competitors and sectors that Ripple, known for its digital payment protocol and cryptocurrency (XRP), competes with in the financial and technological sectors.
